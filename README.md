@@ -1,3 +1,4 @@
 # Dynamic Memory Management
 
-This repository focuses on managing dynamic memory allocation in C using malloc, realloc, and free. This program processes an array of integers, allowing the user to add, remove, and search for elements, along with printing the array's contents, displaying its summary statistics, and at the end it will release all allocated memory.
+This project focuses on managing dynamic memory allocation in C using malloc, realloc, and free which is used to processes arrays of integers in various ways along with printing contents and displaying summary statistics. In the end all allocated memory is released.
+
