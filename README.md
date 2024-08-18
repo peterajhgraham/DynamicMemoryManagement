@@ -18,7 +18,7 @@ Dynamic_Memory_Management/
 ## How to Compile and Run
 
 ### Prerequisites
-- A C compiler such as gcc
+- A C compiler such as GNU C Compiler (GCC)
 - `main` if using Makefile
 
 ### Compilation
