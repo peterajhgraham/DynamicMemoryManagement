@@ -11,6 +11,7 @@ Dynamic_Memory_Management/
 │   ├── dynamic_array.c
 │   └── dynamic_array.h
 │
+├── LICENSE
 ├── Makefile
 └── README.md
 ```
